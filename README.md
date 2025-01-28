@@ -17,3 +17,8 @@ The Deep Cross-Modal Face Naming model analyzes multimodal data (images and text
 ## Usage
 **To run the project, execute the following command:**
 python Deepmodal.py
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/29e4ea8e-af4f-4bca-a191-2d8b5a8084a5)
+![image](https://github.com/user-attachments/assets/716add77-fc66-4b6f-96f0-e684887c9b7d)
+
